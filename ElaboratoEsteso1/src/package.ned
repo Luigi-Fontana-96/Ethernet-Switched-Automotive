@@ -1,0 +1,3 @@
+package ethernetsimple;
+
+@license(LGPL);
